@@ -111,7 +111,7 @@ class Yo extends EstudianteDeInformatica
     <td align="center" width="33%">
       <img src="assets/michi.png" width="120" alt="Michi" /><br />
       <b>🐾 Gatos</b><br />
-      <sub>Amante de los animales, me gusta pasar tiempo la cosita preciosa de la foto de arriba :p</sub>
+      <sub>Amante de los animales, me gusta pasar tiempo con la cosita preciosa de la foto de arriba :p</sub>
     </td>
 </table>
 
